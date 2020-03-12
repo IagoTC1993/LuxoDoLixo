@@ -1,0 +1,2 @@
+# LuxoDoLixo
+Área de material/artefatos do projeto de gestão da coleta de lixo 
